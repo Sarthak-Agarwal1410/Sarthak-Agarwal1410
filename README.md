@@ -27,7 +27,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://avatars.githubusercontent.com/u/69386523?s=120&v=4"> 
+ 
 </p>
   
 
@@ -61,7 +61,7 @@
  ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
  ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
  [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
- [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+ [![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
@@ -162,10 +162,6 @@ but also gives you various benefits which can improve the quality of your life. 
 [Creating High Availability Architecture with AWS CLI CloudFront S3 EBS](https://sarthakagarwal-9711.medium.com/aws-cli-task-5c0011cf7236)
 
 [Github actions on GCP using Terraform](https://github.com/Sarthak-Agarwal1410/github-actions-gcp-using-terraform.git) 
-
-[Using-EFS-instead-of-EBS-service-on-the-AWS-as-Create-launch-Application-](https://www.linkedin.com/feed/update/urn:li:activity:6720384729843146752/)
-
-[Launching EC2 Instance on AWS Using Ansible](https://www.linkedin.com/feed/update/urn:li:activity:6720384622833860608/)
 
 [Amazon SQS Case Study](https://sarthakagarwal-9711.medium.com/the-use-cases-solved-by-amazon-sqs-its-case-study-6322d048a062)
 </td></tr></table> </b>
