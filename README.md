@@ -34,7 +34,7 @@
 
 ## About Me ✍
  
- I m <b> Sarthak Agarwal</b>, a pursuing <b>Computer Science Engineer</b> a passionate self-taught devops engineer and a freelance devops engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Sarthak Agarwal</b>, an <b>AWS Community Builder</b> a passionate self-taught Cloud & DevOps Engineer and a freelancer devops from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular technological fields. 
 
 
 </div>
@@ -78,7 +78,7 @@
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
  
 Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
-but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
+but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing blogs so that I could make my hobby as my profession and some of them are as follows.
 ##
 
 
@@ -89,7 +89,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <!--BLOG Process-->
-## Updates 🤓
+## My Projects 🤓
 <b>
 <table><tr><td valign="top" width="33%">
 
@@ -103,8 +103,6 @@ but also gives you various benefits which can improve the quality of your life. 
 [Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/)
 
 [CREATING LOAD BALANCER ON AWS USING ANSIBLE ](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task3-creatingabrloadabrbalancerabronabrawsabrusingabransible-activity-6705502102753542144-LbM2/)
-
-[Creating a Animation Application Using Flutter](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
 
 [LAUNCHING EC2 INSTANCE AND CONFIGURING WEBSERVER IN MANAGED NODE BY DYNAMIC INVENTORY USING ANSIBLE ON AWS ​](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task2-devopsengineer-activity-6702545496298266624-c26H/)
 
@@ -120,11 +118,6 @@ but also gives you various benefits which can improve the quality of your life. 
 <!-- recent_releases starts -->
  [Creating hadoop cluser and making datanode storage dynamic through LVM](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
  
- [MLOPS]
- 
-[Covid Symptoms Tracker Project](https://www.linkedin.com/posts/amit-sharma-35439016a_mlops-machinelearning-ai-activity-6723638308745945088-xHex/)
- 
-[Covid Symptoms Tracker](https://github.com/users/amit17133129/projects/4/)
 </td><td valign="top" width="30%"> 
 
 ### [Machine Learning]
@@ -146,8 +139,6 @@ but also gives you various benefits which can improve the quality of your life. 
 [Computer Vision](https://www.linkedin.com/pulse/day-4-computer-vision-amit-sharma/)
 
 [Simple Linear Regression](https://www.linkedin.com/pulse/day-4-machine-learning-amit-sharma/)
-
-[COVID 19 image segmentation on chest Xray Using MASK RCNN](https://www.linkedin.com/posts/amit-sharma-35439016a_task6-worldrecordholder-mlops-activity-6689080600785252352-GMg8/)
 
 </td><td valign="top" width="50%">
 
@@ -172,16 +163,16 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <div align="center">
-<a href="https://github.com/amit17133129" target="_blank">
+<a href="https://github.com/Sarthak-Agarwal1410" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://m.facebook.com/profile.php?lst=100051903403433%3A100051903403433%3A1605120679" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/amit-sharma-35439016a/" target="_blank">
+<a href="https://www.linkedin.com/in/sarthak-agarwal-0476331b1/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/the_interstellar_guy/?hl=en" target="_blank">
+<a href="https://www.instagram.com/sarthak_ag.1410/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
@@ -195,8 +186,3 @@ but also gives you various benefits which can improve the quality of your life. 
 
    
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
-
-<a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
-
