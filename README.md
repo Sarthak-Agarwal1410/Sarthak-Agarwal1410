@@ -1,4 +1,4 @@
-## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sarthak 👨‍🎓
+## Hi Engineers�! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sarthak Agarwal 👨‍🎓
 
 <!--Header-->
 
@@ -89,7 +89,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <!--BLOG Process-->
-## My Projects 🤓
+## My Projects & Technical Blogs 🤓
 <b>
 <table><tr><td valign="top" width="33%">
 
