@@ -77,7 +77,7 @@
 
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
  
-Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
+Having a hobby is a <b>great</b> <b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing blogs so that I could make my hobby as my profession and some of them are as follows.
 ##
 
@@ -109,16 +109,24 @@ but also gives you various benefits which can improve the quality of your life. 
 [Webserver Configuration inside Docker Container by auto updating the Ansible inventory file](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6789932452480733184-m66r)
   
 [Restarting HTTPD Service is not idempotence in nature](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connections-ansible-worldrecordholder-activity-6786732270830014464-UZMx)
+  
+[Running Python Libraries inside Docker](https://sarthakagarwal-9711.medium.com/firstly-we-launch-a-docker-container-centos-inside-our-base-operating-system-and-then-we-run-the-e9e6a2015769)
+  
+[Kubernetes Case Study](https://sarthakagarwal-9711.medium.com/kubernetes-and-its-case-study-with-spotify-5a1ed145487e)
 
 </td><td valign="top" width="25%"> 
  
+### [Python]
+  
+[Automated Python program to configure Architecture on AWS](https://sarthakagarwal-9711.medium.com/arth-task-8-e61ae5b03bde)
+  
 ### [BigData]
 <!-- recent_releases starts -->
  [Configure Hadoop and start cluster services using Ansible Playbook](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connections-hadoop-ansible-activity-6786384833598775296-Kge1)
   
   [Integrating LVM with Hadoop and providing Elasticity to Data Node Storage](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_arth-task-71a-activity-6776908569607471104-e9OC)
  
-[Networking]
+### [Networking]
   
 [Network Topology Setup](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connections-vimaldaga-righteducation-activity-6788641109674344449-d7IM)
   
@@ -128,22 +136,20 @@ but also gives you various benefits which can improve the quality of your life. 
 ### [Machine Learning]
 <!-- blog starts -->
 
-[An Explaination to ANN](https://github.com/amit17133129/An-Explanation-To-Artificial-Neural-Network/blob/main/Churn_Modelling.ipynb)
-
 [Machine Learning Prediction Inside Docker](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_enthusiasts-docker-dockerhub-activity-6804512879157506048-Stae)
 
 [Neural Networks ](https://sarthakagarwal-9711.medium.com/neural-networks-846883f249d1)
 
-[Binary Classification](https://www.linkedin.com/pulse/mlops-day-20-binary-classification-amit-sharma/)
-
-[Gradient Descent](https://www.linkedin.com/pulse/mlops-day-11-gradient-descent-amit-sharma/)
-
-[Features Selection on Multiple Linear Regression](https://www.linkedin.com/pulse/mlops-day-7-features-selection-multiple-linear-amit-sharma/)
-
 [Computer Vision](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6810986530300035072-4rNw)
 
-[Simple Linear Regression](https://www.linkedin.com/pulse/day-4-machine-learning-amit-sharma/)
-
+[Object Recognition using CNN Model](https://github.com/Sarthak-Agarwal1410/Object_Recognition_using_CNN_Model.git)
+  
+[Face Recognition using opencv and then deploying AWS services](https://github.com/Sarthak-Agarwal1410/Face_Recognition_AWS_EC2_EBS.git)
+  
+[Creation of an image by itself using NumPy](https://github.com/Sarthak-Agarwal1410/Create-image-by-yourself-Using-Python-Code.git)
+  
+[Perceptron Model](https://github.com/Sarthak-Agarwal1410/Perceptron-Data-Learning.git)
+  
 </td><td valign="top" width="50%">
 
 ### [Cloud Computing]
@@ -151,9 +157,11 @@ but also gives you various benefits which can improve the quality of your life. 
   
 [Google Cloud Facilitator](https://www.cloudskillsboost.google/public_profiles/f9a7e00c-4161-4e4e-ab72-edd790807729)
   
+[Hadoop Cluster using Terraform and Ansible](https://github.com/Sarthak-Agarwal1410/Hadoop-Cluster-using-Terraform-and-ansible.git)
+  
 [Creating High Availability Architecture with AWS CLI CloudFront S3 EBS](https://sarthakagarwal-9711.medium.com/aws-cli-task-5c0011cf7236)
 
-[Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/) 
+[Github actions on GCP using Terraform](https://github.com/Sarthak-Agarwal1410/github-actions-gcp-using-terraform.git) 
 
 [Using-EFS-instead-of-EBS-service-on-the-AWS-as-Create-launch-Application-](https://www.linkedin.com/feed/update/urn:li:activity:6720384729843146752/)
 
