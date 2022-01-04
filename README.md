@@ -100,22 +100,29 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [GUI container on the Docker](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6805471904711884801-m3LE)
 
-[CREATING LOAD BALANCER ON AWS USING ANSIBLE ](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task3-creatingabrloadabrbalancerabronabrawsabrusingabransible-activity-6705502102753542144-LbM2/)
+[Creating Load Balancer On AWS Using Ansible](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6790688268057931776-6zWM)
 
-[LAUNCHING EC2 INSTANCE AND CONFIGURING WEBSERVER IN MANAGED NODE BY DYNAMIC INVENTORY USING ANSIBLE ON AWS ​](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task2-devopsengineer-activity-6702545496298266624-c26H/)
+[Launching ec2 instance & configuring webserver in MN by Dynamic Inventory using Ansible on AWS](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connections-ansible-awsdevops-activity-6788200078134788096-F6Qb)
 
-[DOCKER 🐳 INTERGRATION WITH ANSIBLE (A)](https://www.linkedin.com/pulse/docker-intergration-ansible-task-1-amit-sharma/)
+[Docker 🐳 Integration with Ansible](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_integration-of-docker-and-ansible-activity-6785885035280003072-68w9)
 
-[Using Terraform and Ansible creating K8S Cluster On AWS and launching Prometheus and Grafana in that K8S Cluster.](https://www.linkedin.com/feed/update/urn:li:activity:6702127648476413952/)
-
-[Deploying Web Server & HAProxy load Balancer on AWS using Ansible](https://www.linkedin.com/pulse/ansible-task-3-creating-load-balancer-aws-using-amit-sharma/)
+[Webserver Configuration inside Docker Container by auto updating the Ansible inventory file](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6789932452480733184-m66r)
+  
+[Restarting HTTPD Service is not idempotence in nature](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connections-ansible-worldrecordholder-activity-6786732270830014464-UZMx)
 
 </td><td valign="top" width="25%"> 
  
 ### [BigData]
 <!-- recent_releases starts -->
- [Creating hadoop cluser and making datanode storage dynamic through LVM](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
+ [Configure Hadoop and start cluster services using Ansible Playbook](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connections-hadoop-ansible-activity-6786384833598775296-Kge1)
+  
+  [Integrating LVM with Hadoop and providing Elasticity to Data Node Storage](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_arth-task-71a-activity-6776908569607471104-e9OC)
  
+[Networking]
+  
+[Network Topology Setup](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connections-vimaldaga-righteducation-activity-6788641109674344449-d7IM)
+  
+[Setup to ping google but not able to ping Facebook](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_folks-vimaldaga-righteducation-activity-6785651411897081856-78kj)
 </td><td valign="top" width="30%"> 
 
 ### [Machine Learning]
@@ -125,7 +132,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [Machine Learning Prediction Inside Docker](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_enthusiasts-docker-dockerhub-activity-6804512879157506048-Stae)
 
-[Convolutional Neural Network ](https://www.linkedin.com/pulse/mlops-day-24-convolutional-neural-network-amit-sharma/)
+[Neural Networks ](https://sarthakagarwal-9711.medium.com/neural-networks-846883f249d1)
 
 [Binary Classification](https://www.linkedin.com/pulse/mlops-day-20-binary-classification-amit-sharma/)
 
@@ -139,12 +146,12 @@ but also gives you various benefits which can improve the quality of your life. 
 
 </td><td valign="top" width="50%">
 
-### [Cloud]
+### [Cloud Computing]
 <!-- tils starts -->
   
-[Google-Cloud-Facilitator](https://www.cloudskillsboost.google/public_profiles/f9a7e00c-4161-4e4e-ab72-edd790807729)
+[Google Cloud Facilitator](https://www.cloudskillsboost.google/public_profiles/f9a7e00c-4161-4e4e-ab72-edd790807729)
   
-[Creating-High-Availability-Architecture-with-AWS-CLI-CloudFront-S3-EBS](https://www.linkedin.com/pulse/creating-high-availability-architecture-aws-cli-s3-ebs-amit-sharma/)
+[Creating High Availability Architecture with AWS CLI CloudFront S3 EBS](https://sarthakagarwal-9711.medium.com/aws-cli-task-5c0011cf7236)
 
 [Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/) 
 
@@ -152,6 +159,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [Launching EC2 Instance on AWS Using Ansible](https://www.linkedin.com/feed/update/urn:li:activity:6720384622833860608/)
 
+[Amazon SQS Case Study](https://sarthakagarwal-9711.medium.com/the-use-cases-solved-by-amazon-sqs-its-case-study-6322d048a062)
 </td></tr></table> </b>
 
 <!--footer-->
