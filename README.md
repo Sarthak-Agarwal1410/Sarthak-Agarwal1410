@@ -96,11 +96,9 @@ but also gives you various benefits which can improve the quality of your life. 
 ### [DEVOPS]
 <!-- recent_releases starts -->
 
-[Launching-A-WordPress-Application-With-MYSQL-Database-in-K8S-Cluster-On-AWS-Using-Ansible-](https://github.com/amit17133129/Launching-A-WordPress-Application-With-MYSQL-Database-in-K8S-Cluster-On-AWS-Using-Ansible-)
+[Multi Node Kubernetes Cluster On AWS using Ansible](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6850406720590626816-MhGI)
 
-[K8S-Cluster-On-AWS](https://github.com/amit17133129/K8S-Cluster-On-AWS)
-
-[Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/)
+[GUI container on the Docker](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6805471904711884801-m3LE)
 
 [CREATING LOAD BALANCER ON AWS USING ANSIBLE ](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task3-creatingabrloadabrbalancerabronabrawsabrusingabransible-activity-6705502102753542144-LbM2/)
 
@@ -125,8 +123,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [An Explaination to ANN](https://github.com/amit17133129/An-Explanation-To-Artificial-Neural-Network/blob/main/Churn_Modelling.ipynb)
 
-[Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification](https://github.com/amit17133129/Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification/)
-[COVID-19-image-segmentation-on-chest-Xray-Using-MASK-RCNN.](https://www.linkedin.com/pulse/covid-19-image-segmentation-chest-xray-using-mask-rcnn-amit-sharma/)
+[Machine Learning Prediction Inside Docker](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_enthusiasts-docker-dockerhub-activity-6804512879157506048-Stae)
 
 [Convolutional Neural Network ](https://www.linkedin.com/pulse/mlops-day-24-convolutional-neural-network-amit-sharma/)
 
@@ -136,7 +133,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [Features Selection on Multiple Linear Regression](https://www.linkedin.com/pulse/mlops-day-7-features-selection-multiple-linear-amit-sharma/)
 
-[Computer Vision](https://www.linkedin.com/pulse/day-4-computer-vision-amit-sharma/)
+[Computer Vision](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6810986530300035072-4rNw)
 
 [Simple Linear Regression](https://www.linkedin.com/pulse/day-4-machine-learning-amit-sharma/)
 
@@ -144,6 +141,9 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### [Cloud]
 <!-- tils starts -->
+  
+[Google-Cloud-Facilitator](https://www.cloudskillsboost.google/public_profiles/f9a7e00c-4161-4e4e-ab72-edd790807729)
+  
 [Creating-High-Availability-Architecture-with-AWS-CLI-CloudFront-S3-EBS](https://www.linkedin.com/pulse/creating-high-availability-architecture-aws-cli-s3-ebs-amit-sharma/)
 
 [Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/) 
