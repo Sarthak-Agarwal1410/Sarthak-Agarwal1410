@@ -38,7 +38,7 @@
 
 
 </div>
-
+<br>
 <!--technical skill-->
 
 ## Technical Skills 🛠 
