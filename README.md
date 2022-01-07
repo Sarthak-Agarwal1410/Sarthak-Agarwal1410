@@ -90,8 +90,8 @@ but also gives you various benefits which can improve the quality of your life. 
 
 <!--BLOG Process-->
 ## My Projects & Technical Blogs 🤓
-<b>
-<table><tr><td valign="top" width="33%">
+
+<table><tr><td valign="top" width="25%">
 
 ### [DEVOPS]
 <!-- recent_releases starts -->
@@ -131,7 +131,7 @@ but also gives you various benefits which can improve the quality of your life. 
 [Network Topology Setup](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connections-vimaldaga-righteducation-activity-6788641109674344449-d7IM)
   
 [Setup to ping google but not able to ping Facebook](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_folks-vimaldaga-righteducation-activity-6785651411897081856-78kj)
-</td><td valign="top" width="30%"> 
+</td><td valign="top" width="25%"> 
 
 ### [Machine Learning]
 <!-- blog starts -->
@@ -150,7 +150,7 @@ but also gives you various benefits which can improve the quality of your life. 
   
 [Perceptron Model](https://github.com/Sarthak-Agarwal1410/Perceptron-Data-Learning.git)
   
-</td><td valign="top" width="50%">
+</td><td valign="top" width="25%">
 
 ### [Cloud Computing]
 <!-- tils starts -->
