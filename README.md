@@ -162,6 +162,8 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [Github actions on GCP using Terraform](https://github.com/Sarthak-Agarwal1410/github-actions-gcp-using-terraform.git) 
 
+[Amazon EKS Case Study](https://sarthakagarwal-9711.medium.com/azure-kubernetes-dcb2d70980d4)
+  
 [Amazon SQS Case Study](https://sarthakagarwal-9711.medium.com/the-use-cases-solved-by-amazon-sqs-its-case-study-6322d048a062)
 </td></tr></table> </b>
 
