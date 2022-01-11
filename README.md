@@ -92,7 +92,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 <table><tr><td valign="top" width="25%">
 
-### [DEVOPS]
+### [DevOps]
 <!-- recent_releases starts -->
 
 [Multi Node Kubernetes Cluster On AWS using Ansible](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6850406720590626816-MhGI)
