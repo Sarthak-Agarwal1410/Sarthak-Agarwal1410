@@ -15,7 +15,8 @@
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Sarthak-Agarwal1410)
 [![Linkedin Badge](https://img.shields.io/badge/-Sarthak%20Agarwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sarthak-agarwal-0476331b1/)](https://www.linkedin.com/in/sarthak-agarwal-0476331b1/)
-[![Instagram Badge](https://img.shields.io/badge/-Sarthak%20Agarwal-blue?style=social&logo=Instagram&link=https://www.instagram.com/sarthak_ag.1410/?hl=en/)](https://www.instagram.com/sarthak_ag.1410/?hl=en/) 
+[![Instagram Badge](https://img.shields.io/badge/-Sarthak%20Agarwal-blue?style=social&logo=Instagram&link=https://www.instagram.com/sarthak_ag.1410/?hl=en/)](https://www.instagram.com/sarthak_ag.1410/?hl=en/)
+[![WhatsApp Badge](https://img.shields.io/badge/-Sarthak%20Agarwal-green?style=social&logo=WhatsApp&logoColor=green&link=wa.me/918630036581)](wa.me/918630036581)
 
 
 
