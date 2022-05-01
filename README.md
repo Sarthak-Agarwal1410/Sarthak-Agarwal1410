@@ -1,4 +1,4 @@
-## Hi Engineers <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sarthak Agarwal 👨‍🎓
+## Hi Enthusiats <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sarthak Agarwal 👨‍🎓
 
 <!--Header-->
 
@@ -80,10 +80,7 @@
 Having a hobby is a <b>great</b> <b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing blogs so that I could make my hobby as my profession and some of them are as follows.
 ##
-
-
 ##
-
 ##
 
 
