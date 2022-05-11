@@ -35,7 +35,7 @@
 
 ## About Me ✍
  
- I m <b> Sarthak Agarwal</b>, an <b>AWS Community Builder</b> a passionate self-taught <b>Cloud & DevOps Enthusiast</b> from India. Currently, I am a  <b>Cloud Engineer Intern</b> at  <b>Stealth Mode Fintech, USA</b>. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the <b>Experience, Architecture, Testing and Code Quality</b> of the things I build. I always passionate about understanding the core concepts behind different popular technological fields. 
+ I m <b> Sarthak Agarwal</b>, an <b>AWS Community Builder</b> a passionate self-taught <b>Cloud & DevOps Enthusiast</b> from India. I was a  <b>Cloud Engineer Intern</b> at  <b>Stealth Mode Fintech, USA</b> and <b>Cloud & MLOps Intern</b> at LinuxWorld Informatics pvt. Ltd., Jaipur. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the <b>Experience, Architecture, Testing and Code Quality</b> of the things I build. I always passionate about understanding the core concepts behind different popular technological fields. 
 
 
 </div>
