@@ -1,4 +1,4 @@
-## Hi Enthusiasts <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sarthak Agarwal 👨‍🎓
+## Hi Enthusiasts <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">, I am Sarthak Agarwal 👨‍🎓
 
 <!--Header-->
 
@@ -76,7 +76,7 @@
 
 ## My Hobbies ✍
 
-<img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
  
 Having a hobby is a <b>great</b> <b>thing</b> for each and everyone because it not only entertains me,
 but also gives me various benefits which can improve the quality of my life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books.Also, I love playing cards and flying kite. I also play <b>volleyball</b> and <b>cricket</b> from time to time. I have also started <b>writing technical blogs</b> so that I could make my hobby as my profession and some of them are as follows.
