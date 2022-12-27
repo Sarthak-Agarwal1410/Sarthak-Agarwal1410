@@ -93,6 +93,8 @@ but also gives me various benefits which can improve the quality of my life. It 
 
 [Multi Node Kubernetes Cluster On AWS using Ansible](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6850406720590626816-MhGI)
 
+[Jenkins Master-Slave Pipeline on AWS](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_jenkins-master-slave-pipeline-on-aws-activity-7013429844986228736-Vfwp?utm_source=share&utm_medium=member_desktop)  
+  
 [GUI container on the Docker](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6805471904711884801-m3LE)
 
 [Creating Load Balancer On AWS Using Ansible](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connetions-vimaldaga-righteducation-activity-6790688268057931776-6zWM)
