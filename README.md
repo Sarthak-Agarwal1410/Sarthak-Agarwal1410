@@ -112,7 +112,11 @@ but also gives me various benefits which can improve the quality of my life. It 
 [Kubernetes Case Study](https://sarthakagarwal-9711.medium.com/kubernetes-and-its-case-study-with-spotify-5a1ed145487e)
 
 </td><td valign="top" width="25%"> 
- 
+
+### [Terraform]
+  
+[Automated Terraform code to configure EKS & its services on AWS](https://github.com/Sarthak-Agarwal1410/eks-aws-tf.git)
+
 ### [Python]
   
 [Automated Python program to configure Architecture on AWS](https://sarthakagarwal-9711.medium.com/arth-task-8-e61ae5b03bde)
