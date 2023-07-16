@@ -36,7 +36,7 @@
 ## About Me ✍
  
 
-I m <b>Sarthak Agarwal</b>, a <b>RedHat Certified</b> passionate self-taught Cloud & <b>DevOps Enthusiast</b> from India. Currently, I am working as a <b>Platform Engineer - DevOps @ Qolaba</b>. I was a DevOps Intern @ Bytelearn, <b>Cloud Engineer</b> Contractor at Stealth Mode Fintech, USA, and Cloud & MLOps Intern at LinuxWorld Informatics Pvt. Ltd., Jaipur. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the <b>Experience, Architecture, Configuration, and Deployment</b> of the things I build. I have always been passionate about understanding the core concepts behind different popular technological fields. 
+I m <b>Sarthak Agarwal</b>, an <b>AWS & RedHat Certified</b> passionate self-taught Cloud & <b>DevOps Enthusiast</b> from India. Currently, I am working as a <b>Platform Engineer - DevOps @ Qolaba</b>. I was a DevOps Intern @ Bytelearn, <b>Cloud Engineer</b> Contractor at Stealth Mode Fintech, USA, and Cloud & MLOps Intern at LinuxWorld Informatics Pvt. Ltd., Jaipur. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the <b>Experience, Architecture, Configuration, and Deployment</b> of the things I build. I have always been passionate about understanding the core concepts behind different popular technological fields. 
 
 
 </div>
