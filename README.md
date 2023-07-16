@@ -117,6 +117,12 @@ but also gives me various benefits which can improve the quality of my life. It 
   
 [Automated Terraform code to configure EKS & its services on AWS](https://github.com/Sarthak-Agarwal1410/eks-aws-tf.git)
 
+[Deployment of EKS Cluster using Terraform on AWS](https://github.com/Sarthak-Agarwal1410/eks-aws-tf.git)  
+
+[Github actions on GCP using Terraform](https://github.com/Sarthak-Agarwal1410/github-actions-gcp-using-terraform.git) 
+  
+[Hadoop Cluster using Terraform and Ansible](https://github.com/Sarthak-Agarwal1410/Hadoop-Cluster-using-Terraform-and-ansible.git)
+
 ### [Python]
   
 [Automated Python program to configure Architecture on AWS](https://sarthakagarwal-9711.medium.com/arth-task-8-e61ae5b03bde)
@@ -126,12 +132,6 @@ but also gives me various benefits which can improve the quality of my life. It 
  [Configure Hadoop and start cluster services using Ansible Playbook](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connections-hadoop-ansible-activity-6786384833598775296-Kge1)
   
   [Integrating LVM with Hadoop and providing Elasticity to Data Node Storage](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_arth-task-71a-activity-6776908569607471104-e9OC)
- 
-### [Networking]
-  
-[Network Topology Setup](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connections-vimaldaga-righteducation-activity-6788641109674344449-d7IM)
-  
-[Setup to ping google but not able to ping Facebook](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_folks-vimaldaga-righteducation-activity-6785651411897081856-78kj)
 </td><td valign="top" width="25%"> 
 
 ### [Machine Learning]
@@ -150,21 +150,20 @@ but also gives me various benefits which can improve the quality of my life. It 
 [Creation of an image by itself using NumPy](https://github.com/Sarthak-Agarwal1410/Create-image-by-yourself-Using-Python-Code.git)
   
 [Perceptron Model](https://github.com/Sarthak-Agarwal1410/Perceptron-Data-Learning.git)
+
+### [Networking]
   
+[Network Topology Setup](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_connections-vimaldaga-righteducation-activity-6788641109674344449-d7IM)
+  
+[Setup to ping google but not able to ping Facebook](https://www.linkedin.com/posts/sarthak-agarwal-0476331b1_folks-vimaldaga-righteducation-activity-6785651411897081856-78kj)
 </td><td valign="top" width="25%">
 
 ### [Cloud Computing]
 <!-- tils starts -->
   
 [Ultimate MileStone Achiever Google Cloud Facilitator](https://www.cloudskillsboost.google/public_profiles/f9a7e00c-4161-4e4e-ab72-edd790807729)
-
-[Deployment of EKS Cluster using Terraform on AWS](https://github.com/Sarthak-Agarwal1410/eks-aws-tf.git)  
-  
-[Hadoop Cluster using Terraform and Ansible](https://github.com/Sarthak-Agarwal1410/Hadoop-Cluster-using-Terraform-and-ansible.git)
   
 [Creating High Availability Architecture with AWS CLI CloudFront S3 EBS](https://sarthakagarwal-9711.medium.com/aws-cli-task-5c0011cf7236)
-
-[Github actions on GCP using Terraform](https://github.com/Sarthak-Agarwal1410/github-actions-gcp-using-terraform.git) 
 
 [Amazon EKS Case Study](https://sarthakagarwal-9711.medium.com/azure-kubernetes-dcb2d70980d4)
   
