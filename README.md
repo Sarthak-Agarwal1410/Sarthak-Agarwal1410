@@ -41,7 +41,7 @@ I'm <b>Sarthak Agarwal</b>, an <b>AWS & RedHat Certified</b> passionate self-tau
 
 </div>
 
-<h2>🛡️ Badges</h2> 
+<h2>Certification & Badges</h2> 
 <div>
     <a href="https://www.credly.com/earner/earned/badge/5ebb917c-8c74-4a31-9bd6-518dd271f1ba">
          <img src="solutions-architect.png" width="150 px" height = "150px" >
