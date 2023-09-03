@@ -36,10 +36,27 @@
 ## About Me ✍
  
 
-I m <b>Sarthak Agarwal</b>, an <b>AWS & RedHat Certified</b> passionate self-taught Cloud & <b>DevOps Enthusiast</b> from India. Currently, I am working as a <b>Platform Engineer - DevOps @ Qolaba</b>. I was a DevOps Intern @ Bytelearn, <b>Cloud Engineer</b> Contractor at Stealth Mode Fintech, USA, and Cloud & MLOps Intern at LinuxWorld Informatics Pvt. Ltd., Jaipur. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the <b>Experience, Architecture, Configuration, and Deployment</b> of the things I build. I have always been passionate about understanding the core concepts behind different popular technological fields. 
+I'm <b>Sarthak Agarwal</b>, an <b>AWS & RedHat Certified</b> passionate self-taught Cloud & <b>DevOps Enthusiast</b> from India. Currently, I am working as a <b>Platform Engineer - DevOps @ Qolaba</b>. I was a DevOps Intern @ Bytelearn, <b>Cloud Engineer</b> Contractor at Stealth Mode Fintech, USA, and Cloud & MLOps Intern at LinuxWorld Informatics Pvt. Ltd., Jaipur. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the <b>Experience, Architecture, Configuration, and Deployment</b> of the things I build. I have always been passionate about understanding the core concepts behind different popular technological fields. 
 
 
 </div>
+
+<h2>🛡️ Badges</h2> 
+<div>
+    <a href="https://www.credly.com/earner/earned/badge/5ebb917c-8c74-4a31-9bd6-518dd271f1ba">
+         <img src="solutions-architect.png" width="150 px" height = "150px" >
+    </a>
+      <a href="https://rhtapps.redhat.com/verify?certId=210-133-708">
+        <img src="rhce.jpg" width="175 px" height = "150px" >
+     </a>    
+      <a href="https://learn.redhat.com/t5/badges/userbadgespage/user-id/61738/page/1">
+        <img src="100Kmemberbadge.png" width="150 px" height = "150px" >
+     </a>
+     <a href="https://www.cloudskillsboost.google/public_profiles/f9a7e00c-4161-4e4e-ab72-edd790807729">
+        <img src="qwiklabs.jpeg" width="150 px" height = "150px" >
+     </a>
+  </div>
+
 <br>
 <!--technical skill-->
 
@@ -78,8 +95,8 @@ I m <b>Sarthak Agarwal</b>, an <b>AWS & RedHat Certified</b> passionate self-tau
 
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
  
-Having a hobby is a <b>great</b> <b>thing</b> for each and everyone because it not only entertains me,
-but also gives me various benefits which can improve the quality of my life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books.Also, I love playing cards and flying kite. I also play <b>volleyball</b> and <b>cricket</b> from time to time. I have also started <b>writing technical blogs</b> so that I could make my hobby as my profession and some of them are as follows.
+Having a hobby is a <b>great</b> <b>thing</b> for each and everyone because it not only entertains me
+but also gives me various benefits which can improve the quality of my life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. Also, I love playing cards and flying kites. I also play <b>volleyball</b> and <b>cricket</b> from time to time. I have also started <b>writing technical blogs</b> so that I could make my hobby my profession and some of them are as follows.
 ##
 ##
 
