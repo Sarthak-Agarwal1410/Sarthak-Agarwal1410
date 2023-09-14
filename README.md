@@ -65,12 +65,13 @@ I'm <b>Sarthak Agarwal</b>, an <b>AWS & RedHat Certified</b> passionate self-tau
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width="350" height= "300">
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-FCA121?style=flat-square&logo=Jenkins)
+[![Ansible](https://img.shields.io/badge/-Ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
@@ -82,7 +83,6 @@ I'm <b>Sarthak Agarwal</b>, an <b>AWS & RedHat Certified</b> passionate self-tau
  [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
  [![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
- [![Ansible](https://img.shields.io/badge/-Ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 
 <p align="center">
   <img src="https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true"/>
