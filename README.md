@@ -36,7 +36,7 @@
 ## About Me ✍
  
 
-I'm <b>Sarthak Agarwal</b>, an <b>AWS & RedHat Certified</b> passionate self-taught Cloud & <b>DevOps Enthusiast</b> from India. Currently, I am working as a <b>Platform Engineer - DevOps @ Qolaba</b>. I was a DevOps Intern @ Bytelearn, <b>Cloud Engineer</b> Contractor at Stealth Mode Fintech, USA, and Cloud & MLOps Intern at LinuxWorld Informatics Pvt. Ltd., Jaipur. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the <b>Experience, Architecture, Configuration, and Deployment</b> of the things I build. I have always been passionate about understanding the core concepts behind different popular technological fields. 
+I'm <b>Sarthak Agarwal</b>, an <b>AWS & RedHat Certified</b> passionate self-taught Cloud & <b>DevOps Enthusiast</b> from India. Currently, I am working as a <b>Platform Engineer - DevOps @ Qolaba</b>. I was a <b>DevOps Engineer @ CureSkin, Bangalore</b>, and DevOps Intern @ Bytelearn, <b>Cloud Engineer Contractor</b> at Stealth Mode Fintech, USA, and Cloud & MLOps Intern at LinuxWorld Informatics Pvt. Ltd., Jaipur. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the <b>Experience, Architecture, Configuration, and Deployment</b> of the things I build. I have always been passionate about understanding the core concepts behind different popular technological fields. 
 
 
 </div>
@@ -95,8 +95,9 @@ I'm <b>Sarthak Agarwal</b>, an <b>AWS & RedHat Certified</b> passionate self-tau
 
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
  
-Having a hobby is a <b>great</b> <b>thing</b> for each and everyone because it not only entertains me
+Having a hobby is a <b>great</b> <b>thing</b> for each and every one because it not only entertains me
 but also gives me various benefits which can improve the quality of my life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. Also, I love playing cards and flying kites. I also play <b>volleyball</b> and <b>cricket</b> from time to time. I have also started <b>writing technical blogs</b> so that I could make my hobby my profession and some of them are as follows.
+##
 ##
 ##
 
