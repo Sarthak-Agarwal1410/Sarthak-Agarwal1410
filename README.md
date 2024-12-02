@@ -36,7 +36,7 @@
 ## About Me ✍
  
 
-I'm Sarthak Agarwal, an <b>AWS & RedHat Certified Cloud & DevOps Enthusiast</b> from India. Currently, I work as a <b>DevOps Lead at TFG</b>. Previously, I served as a <b>Platform Engineer at Qolaba</b> and a <b>DevOps Engineer at CureSkin</b>, Bangalore. I'm driven by a passion for software development, turning ideas into reality with seamless interfaces. I take pride in the <b>Experience, Architecture, Configuration, and Deployment</b> of the systems I create. My enthusiasm lies in diving deep into the core concepts of various cutting-edge technologies. 
+I'm Sarthak Agarwal, an <b>AWS & RedHat Certified Cloud & DevOps Enthusiast</b> from India. Currently, I work as a <b>DevOps Engineer at Integraate Innovations</b>. Previously, I served as a <b>DevOps Lead at TFG, Platform Engineer at Qolaba</b> and a <b>DevOps Engineer at CureSkin</b>, Bangalore. I'm driven by a passion for software development, turning ideas into reality with seamless interfaces. I take pride in the <b>Experience, Architecture, Configuration, and Deployment</b> of the systems I create. My enthusiasm lies in diving deep into the core concepts of various cutting-edge technologies. 
 
 
 </div>
